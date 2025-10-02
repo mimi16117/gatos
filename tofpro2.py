@@ -10,8 +10,8 @@ if search_term in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son 
     col2.write("los perros son muy amables y cariñosos")
     col2.image("OIP(6).jpg", caption="Navegamos hacia el fin del mundo")
     col2.image("OIP(5).jpg")
-
     col1.image("ima6.jpg")
+
 
 
 
