@@ -9,4 +9,3 @@ if search_term in ("gatos", "pagina 3", "foto", "pr4", "navegamos"):
     col2.image("OIP(3).jpg", caption="Navegamos hacia el fin del mundo")
     col2.image("OIP(4).jpg")
     col1.image("ima3.jpg")
-
