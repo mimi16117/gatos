@@ -1,4 +1,4 @@
-if search_term in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son hermosos"):
+if  in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son hermosos"):
     search_term = "gatitos"
     st.header("🐾 Sección 1 - Página 2", divider=True)
     col1, col2 = st.columns(2)
@@ -11,6 +11,7 @@ if search_term in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son 
     col2.image("OIP(6).jpg", caption="Navegamos hacia el fin del mundo")
     col2.image("OIP(5).jpg")
     col1.image("ima6.jpg")
+
 
 
 
