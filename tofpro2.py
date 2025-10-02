@@ -1,5 +1,7 @@
+import streamlit as st 
+search_term =
+st.text_input("Escribe tu busqueda")
 if search_term in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son hermosos"):
-    search_term = "gatitos"
     st.header("🐾 Sección 1 - Página 2", divider=True)
     col1, col2 = st.columns(2)
     col1.video("https://youtu.be/hvi3J3yBRXI?si=BJVJZbSLtGCKCrPZ")
@@ -12,4 +14,5 @@ if search_term in ("gatos", "gatitos", "gorditos", "pagina 2", "los gatiros son 
     col2.image("OIP(5).jpg")
 
     col1.image("ima6.jpg")
+
 
