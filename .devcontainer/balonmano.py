@@ -54,6 +54,7 @@ reglamentaria y la señal de arbitraje visual correcta.
 """)
 
 
+
 3. pages/1_Simulador_Arbitral.py (App Principal)
 Esta es la sección interactiva central (Requerimiento 4).
 Python
@@ -247,7 +248,6 @@ st.write(f"""
 
 st.markdown("---")
 st.balloons()
-
 
 
  
